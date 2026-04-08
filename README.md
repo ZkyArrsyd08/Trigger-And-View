@@ -1,4 +1,4 @@
-# triger-and-view
+# Trigger And View
 Kelompok 8
 Anggota :
 - Carel Azami
